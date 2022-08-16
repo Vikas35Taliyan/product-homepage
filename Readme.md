@@ -2,6 +2,8 @@
   ![tech](https://img.shields.io/badge/learn-learncodeonline-lightgrey)
   ![TECH](https://img.shields.io/badge/tech-CSS-red)
   ![Project](https://img.shields.io/badge/project-product%20homepage-brightgreen)
+  ## Live
+  [Netlify](https://product-homepage-home.netlify.app/)
 
  # Product Homepage
  Product Homepage is a Homepage which describes about the wireless Headphones and their functionality.
