@@ -12,6 +12,7 @@ This is a Wireless Headphone Homepage which allow user to see the product and th
 * Go shopping 
 * See catalog
 * Add to cart
+* Use Media queries to make it mobile responsive.
 
 # Screenshot.
 ![product homepage](./screenshot/headphone.PNG)
