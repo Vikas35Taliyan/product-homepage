@@ -6,7 +6,7 @@
   [Netlify](https://product-homepage-home.netlify.app/)
 
  # Product Homepage
- Product Homepage is a Homepage which describes about the wireless Headphones and their functionality.
+In this Product Homepage project, I use HTML  paragraphs, headings, ids, and classes to target HTML elements effectively. In CSS I used flexbox for creating navbar positions to set an element in DOM. A big Thanks to Hitesh Choudhary sir and Ineuron who gave me the opportunity to learn and grow.
 
  # Project Description.
 ### Working.
@@ -18,14 +18,6 @@ This is a Wireless Headphone Homepage which allow user to see the product and th
 
 # Screenshot.
 ![product homepage](./screenshot/headphone.PNG)
-
-### Technology
-* HTML
-* css
-##### HTML
-In HTML i use paragraphs, heading and ids and classes to target HTML elements effectively.
-##### CSS
-In CSS i used flexbox in creating navbar positions to set set an element in DOM.
 
 # Credits.
 A big thanks to the Hitesh choudhary and Inueron which gave a Oppurtunity to learn and grow.
